@@ -75,4 +75,5 @@ elif(type == "subtract"):
 elif(type == "po"):
   num = po(num1, num2)
 
+#finalized output
 print("Your final number is ", str(num))
